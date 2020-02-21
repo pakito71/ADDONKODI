@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items>
+    <items_info> <!-- this is opitonal -->
+      <title>Eventos ESPENCAT</title> <!-- titulo -->
+      <genre>deportes</genre>
+      <description>Eventos deportivos</description> <!-- aqui la descripcion -->
+      <thumbnail>https://www.pngkit.com/png/full/297-2976424_deportes-png-deporte.png</thumbnail>  <!-- aqui el logo -->
+      <fanart>https://image.freepik.com/foto-gratis/textura-seda-fondo-resumen-diseno-papel-tapiz-suave-difuminado-suave_29487-1176.jpg</fanart> <!-- aqui el fondo -->
+      <date>20.02.2020</date>
+      <credits>espencat</credits>
+    </items_info>
+<channels>
+
+
+<channel>
+<name> </name>
+<thumbnail>d</thumbnail>
+<fanart>https://wallpaperstock.net/wallpapers/thumbs1/35773hd.jpg</fanart>	
+
+
+<channel>
+<name> </name>
+<thumbnail>d</thumbnail>
+<fanart>https://wallpaperstock.net/wallpapers/thumbs1/35773hd.jpg</fanart>
+
+<channel>
+<name>[COLOR=yellow][B]  Hola  [COLOR=white][I]que tal[/I][/B][/COLOR]</name>
+<thumbnail>d</thumbnail>
+<fanart>https://wallpaperstock.net/wallpapers/thumbs1/35773hd.jpg</fanart>
+	
+<channel>
+<name> </name>
+<thumbnail>d</thumbnail>
+<fanart>https://wallpaperstock.net/wallpapers/thumbs1/35773hd.jpg</fanart>
+
+
+<channel>
+<item>
+<name>[COLOR=yellow][B]  [COLOR=white]   ACCESO   [/B][/COLOR]</name>
+<externallink>https://www.dropbox.com/s/ojb9hw6s46goi2p/menu.xml?dl=0</externallink>
+<thumbnail>https://i.ibb.co/jfSg0vM/Darth-Vader.jpg</thumbnail>
+<fanart>https://wallpaperstock.net/wallpapers/thumbs1/35773hd.jpg</fanart>
+</item>
+
+
+
+
+</channels>

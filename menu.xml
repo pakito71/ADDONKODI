@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items>
+    <items_info> <!-- this is opitonal -->
+      <title>ESPENCAT</title> <!-- titulo -->
+      <genre>deportes</genre>
+      <description>SOLO PARA LOS AMIGOS</description> <!-- aqui la descriptionn -->
+      <thumbnail>https://i.ibb.co/jfSg0vM/Darth-Vader.jpg</thumbnail>  <!-- aqui el logo -->
+      <fanart>https://wallpaperstock.net/wallpapers/thumbs1/35773hd.jpg</fanart> <!-- aqui el fondo -->
+      <date>20.02.2020</date>
+      <credits>Espencat</credits>
+    </items_info>
+<channels>
+
+
+
+<channel>
+<item>
+<name>[COLOR=cyan]++   [COLOR=red][I][B]EVENTOS[COLOR=white]  ++[/I][/B][/COLOR]</name>
+<externallink>https://www.dropbox.com/s/6oo1lqyh798jpkn/deportes.xml?dl=0</externallink>
+<thumbnail>https://i.ibb.co/jfSg0vM/Darth-Vader.jpg</thumbnail>
+<fanart>https://st.depositphotos.com/1005563/3256/i/450/depositphotos_32564723-stock-photo-sports-balls-a-lot-of.jpg</fanart>
+</item>
+ 
+
+</channels>
+
+
+<channel>  
+<item>
+<name>[COLOR=red][I][B]IPTV[COLOR=white]m3u[/I][/B][/COLOR]</name>
+<externallink>https://pastebin.com/cTvRgj5P</externallink>
+<thumbnail>d</thumbnail>
+<fanart>https://st.depositphotos.com/1005563/3256/i/450/depositphotos_32564723-stock-photo-sports-balls-a-lot-of.jpg</fanart>
+</item>
+
+
+
+
