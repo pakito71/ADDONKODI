@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
     <items_info> <!-- this is opitonal -->
-      <title>Eventos ESPENCAT</title> <!-- titulo -->
+      <title> Eventos ESPENCAT </title> <!-- titulo -->
       <genre>deportes</genre>
       <description>Eventos deportivos</description> <!-- aqui la descripcion -->
       <thumbnail>https://www.pngkit.com/png/full/297-2976424_deportes-png-deporte.png</thumbnail>  <!-- aqui el logo -->
@@ -13,24 +13,19 @@
 
 
 <channel>
-<name> </name>
-<thumbnail>d</thumbnail>
-<fanart>https://wallpaperstock.net/wallpapers/thumbs1/35773hd.jpg</fanart>	
+<name>[COLOR=yellow][B] Addon solo para [COLOR=white][I]Petorro y [COLOR=red][I]Espencat[/I][/B][/COLOR]</name>
+<thumbnail>https://i.pinimg.com/736x/99/d4/dd/99d4dd1a47033fe246fa34625fa18aab.jpg</thumbnail>
+<fanart>https://i.pinimg.com/736x/99/d4/dd/99d4dd1a47033fe246fa34625fa18aab.jpg</fanart>	
 
 
 <channel>
-<name> </name>
-<thumbnail>d</thumbnail>
-<fanart>https://wallpaperstock.net/wallpapers/thumbs1/35773hd.jpg</fanart>
-
-<channel>
-<name>[COLOR=yellow][B]  Hola  [COLOR=white][I]que tal[/I][/B][/COLOR]</name>
+<name>[COLOR=yellow][B]  Que  [COLOR=white][I]asco[/I][/B][/COLOR]</name>
 <thumbnail>d</thumbnail>
 <fanart>https://wallpaperstock.net/wallpapers/thumbs1/35773hd.jpg</fanart>
 	
 <channel>
-<name> </name>
-<thumbnail>d</thumbnail>
+<name>[COLOR=red][I]----------------------------------------------------[/I][/B][/COLOR]</name>
+<thumbnail></thumbnail>
 <fanart>https://wallpaperstock.net/wallpapers/thumbs1/35773hd.jpg</fanart>
 
 
