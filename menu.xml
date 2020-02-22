@@ -15,7 +15,7 @@
 
 <channel>
 <item>
-<name>[COLOR=cyan]  *****          [COLOR=red][I][B]EVENTOS[COLOR=white]          *****[/I][/B][/COLOR]</name>
+<name>[COLOR=white]  *****          [COLOR=red][I][B]EVENTOS[COLOR=white]          *****[/I][/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/pakito71/ADDONKODI/master/deportes.xml</externallink>
 <thumbnail>https://i.ibb.co/jfSg0vM/Darth-Vader.jpg</thumbnail>
 <fanart>https://st.depositphotos.com/1005563/3256/i/450/depositphotos_32564723-stock-photo-sports-balls-a-lot-of.jpg</fanart>
@@ -23,7 +23,7 @@
  
 <channel>  
 <item>
-<name>[COLOR=red][I][B]                IPTV[COLOR=white]m3u[/I][/B][/COLOR]</name>
+<name>[COLOR=red][I][B]                      IPTV[COLOR=white] m3u[/I][/B][/COLOR]</name>
 <externallink>https://pastebin.com/raw/6Jgwk4fe</externallink>
 <thumbnail>d</thumbnail>
 <fanart>https://st.depositphotos.com/1005563/3256/i/450/depositphotos_32564723-stock-photo-sports-balls-a-lot-of.jpg</fanart>
@@ -31,7 +31,7 @@
 
 <channel>  
 <item>
-<name>[COLOR=white]                  Dailys[/COLOR]</name>
+<name>[COLOR=white]                        Dailys[/COLOR]</name>
 <externallink>http://acestreampi.ddns.net/dailys.m3u8</externallink>
 <thumbnail>d</thumbnail>
 <fanart>https://st.depositphotos.com/1005563/3256/i/450/depositphotos_32564723-stock-photo-sports-balls-a-lot-of.jpg</fanart>
