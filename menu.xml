@@ -31,7 +31,7 @@
 
 <channel>  
 <item>
-<name>[COLOR=red][I][B]                   Acestream[COLOR=white]Spanish[/COLOR]</name>
+<name>[COLOR=red][I][B]                 Acestream[COLOR=white]Spanish[/I][/B][/COLOR]</name>
 <externallink>http://acestreampi.ddns.net/dailys.m3u8</externallink>
 <thumbnail>https://i.ytimg.com/vi/dxar7KLsrg8/hqdefault.jpg</thumbnail>
 <fanart>https://st.depositphotos.com/1005563/3256/i/450/depositphotos_32564723-stock-photo-sports-balls-a-lot-of.jpg</fanart>
@@ -39,7 +39,7 @@
 
 <channel>
 <item>
-<name>[COLOR=red][I][B]                         LIVE[COLOR=white] TV[/I][/B][/COLOR]</name>
+<name>[COLOR=red][I][B]                       LIVE[COLOR=white] TV[/I][/B][/COLOR]</name>
 <externallink>https://dl.dropbox.com/s/iezyhmsw0ay275a/deportes%20-%20v2.xml?dl=0</externallink>
 <thumbnail>https://dl.dropbox.com/s/sztea0fbpvmh0eh/livetv-logo.jpg?dl=0</thumbnail>
 <fanart>https://st.depositphotos.com/1005563/3256/i/450/depositphotos_32564723-stock-photo-sports-balls-a-lot-of.jpg</fanart>
