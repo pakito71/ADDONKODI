@@ -8,7 +8,7 @@
 <title>[COLOR yellow]Dejar cargar 10 seg[/COLOR]</title>
 <link>D</link>
 <thumbnail>https://i.ibb.co/jfSg0vM/Darth-Vader.jpg</thumbnail>
-<fanart>https://wallpaperstock.net/wallpapers/thumbs1/35773hd.jpg</fanart>
+<fanart>https://st.depositphotos.com/1005563/3256/i/450/depositphotos_32564723-stock-photo-sports-balls-a-lot-of.jpg</fanart>
 </item>  
   
  
@@ -16,8 +16,8 @@
 <item>
 <title>[COLOR yellow]ESPENCAT[/COLOR]</title>
 <link>d</link>
-<thumbnail>d</thumbnail>
-<fanart>d</fanart>
+<thumbnail>https://i.ibb.co/jfSg0vM/Darth-Vader.jpg</thumbnail>
+<fanart>https://st.depositphotos.com/1005563/3256/i/450/depositphotos_32564723-stock-photo-sports-balls-a-lot-of.jpg</fanart>
 </item>
 
 
@@ -30,40 +30,40 @@
 <fanart>https://i.ibb.co/dbDR99f/Futbol.jpg</fanart>
 </item>
 
-<item>
-<title>[COLOR=cyan]22/02  [COLOR red]BOXEO  [COLOR orange]BOXEO [/COLOR][B][COLOR cyan]  [/B] [COLOR mintcream]DailySport[/COLOR]</title>
-<sportsdevil>https://sportzonline.to/channels/pt/sporttv5.php</sportsdevil>
-<User-Agent></User-Agent>
-<referer></referer>
-<thumbnail>https://cdni.rt.com/actualidad/public_images/2019.01/thumbnail/5c443367e9180f62088b4569.JPG</thumbnail>
-<fanart>https://cdni.rt.com/actualidad/public_images/2019.01/thumbnail/5c443367e9180f62088b4569.JPG</fanart>
-</item>
-
 
 <item>
-<title>[COLOR=cyan]FECHA  [COLOR red]HORA  [COLOR orange]PARTIDO [/COLOR][B][COLOR cyan]  [/B] [COLOR mintcream]DailySport[/COLOR]</title>
+<title>[COLOR=red]DailySport[/COLOR]</title>
 <sportsdevil>https://daiulsds.b-cdn.net/c1.php</sportsdevil>
 <User-Agent></User-Agent>
 <referer></referer>
-<thumbnail>d</thumbnail>
+<thumbnail>https://www.mundodeportivo.com/r/GODO/MD/p6/ContraPortada/Imagenes/2019/07/23/img_rguillamet_20190723-110833_imagenes_md_otras_fuentes_previa-partits.jpg</thumbnail>
 <fanart>https://i.ibb.co/dbDR99f/Futbol.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR=cyan]FECHA  [COLOR red]HORA  [COLOR orange]PARTIDO [/COLOR][B][COLOR cyan]  [/B] [COLOR mintcream]DailySport[/COLOR]</title>
-<sportsdevil>https://g.dailysport.pw/xx1/x1.m3u8</sportsdevil>
+<title>[COLOR=cyan]DailySport[/COLOR]</title>
+<sportsdevil>https://dailysport.pw/c1.php</sportsdevil>
 <User-Agent></User-Agent>
 <referer></referer>
-<thumbnail>d</thumbnail>
+<thumbnail>https://www.mundodeportivo.com/r/GODO/MD/p6/ContraPortada/Imagenes/2019/07/23/img_rguillamet_20190723-110833_imagenes_md_otras_fuentes_previa-partits.jpg</thumbnail>
 <fanart>https://i.ibb.co/dbDR99f/Futbol.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR=cyan]FECHA  [COLOR red]HORA  [COLOR orange]PARTIDO [/COLOR][B][COLOR cyan]  [/B] [COLOR mintcream]push13.feber.xyz[/COLOR]</title>
-<sportsdevil>http://push13.feber.xyz/hls/channel21hd47/playlist.m3u8</sportsdevil>
+<title>[COLOR orange]Push[/COLOR]</title>
+<sportsdevil>http://push6.feber.xyz/hls/channel21hd47/chunks.m3u8</sportsdevil>
 <User-Agent></User-Agent>
 <referer></referer>
-<thumbnail>d</thumbnail>
+<thumbnail>https://www.mundodeportivo.com/r/GODO/MD/p6/ContraPortada/Imagenes/2019/07/23/img_rguillamet_20190723-110833_imagenes_md_otras_fuentes_previa-partits.jpg</thumbnail>
+<fanart>https://i.ibb.co/dbDR99f/Futbol.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR=white]DailySport m38[/COLOR]</title>
+<sportsdevil>https://g.dailysport.pw/bb1/x1.m3u8</sportsdevil>
+<User-Agent></User-Agent>
+<referer></referer>
+<thumbnail>https://www.mundodeportivo.com/r/GODO/MD/p6/ContraPortada/Imagenes/2019/07/23/img_rguillamet_20190723-110833_imagenes_md_otras_fuentes_previa-partits.jpg</thumbnail>
 <fanart>https://i.ibb.co/dbDR99f/Futbol.jpg</fanart>
 </item>
 
