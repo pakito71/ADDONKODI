@@ -15,7 +15,7 @@
 
 <channel>
 <item>
-<name>[COLOR=white]  *****          [COLOR=red][I][B]EVENTOS[COLOR=white]          *****[/I][/B][/COLOR]</name>
+<name>[COLOR=white]*****       [COLOR=red][I][B]EVENTOS[COLOR=white] ESPENCAT          *****[/I][/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/pakito71/ADDONKODI/master/deportes.xml</externallink>
 <thumbnail>https://i.ibb.co/jfSg0vM/Darth-Vader.jpg</thumbnail>
 <fanart>https://st.depositphotos.com/1005563/3256/i/450/depositphotos_32564723-stock-photo-sports-balls-a-lot-of.jpg</fanart>
@@ -25,31 +25,25 @@
 <item>
 <name>[COLOR=red][I][B]                      IPTV[COLOR=white] m3u[/I][/B][/COLOR]</name>
 <externallink>https://pastebin.com/raw/6Jgwk4fe</externallink>
-<thumbnail>d</thumbnail>
+<thumbnail>https://notimundo.com.ec/wp-content/www/uploads/2019/06/Deportes.jpg</thumbnail>
 <fanart>https://st.depositphotos.com/1005563/3256/i/450/depositphotos_32564723-stock-photo-sports-balls-a-lot-of.jpg</fanart>
 </item>
 
 <channel>  
 <item>
-<name>[COLOR=white]                        Dailys[/COLOR]</name>
+<name>[COLOR=red][I][B]                   Acestream[COLOR=white]Spanish[/COLOR]</name>
 <externallink>http://acestreampi.ddns.net/dailys.m3u8</externallink>
-<thumbnail>d</thumbnail>
+<thumbnail>https://i.ytimg.com/vi/dxar7KLsrg8/hqdefault.jpg</thumbnail>
 <fanart>https://st.depositphotos.com/1005563/3256/i/450/depositphotos_32564723-stock-photo-sports-balls-a-lot-of.jpg</fanart>
 </item>
 
 <channel>
 <item>
-<name>[COLOR=red][I][B]                 LIVE[COLOR=white] TV[/I][/B][/COLOR]</name>
+<name>[COLOR=red][I][B]                         LIVE[COLOR=white] TV[/I][/B][/COLOR]</name>
 <externallink>https://dl.dropbox.com/s/iezyhmsw0ay275a/deportes%20-%20v2.xml?dl=0</externallink>
 <thumbnail>https://dl.dropbox.com/s/sztea0fbpvmh0eh/livetv-logo.jpg?dl=0</thumbnail>
-<fanart>https://images-na.ssl-images-amazon.com/images/I/71tU-SqxQ-L._SX450_.jpg</fanart>
+<fanart>https://st.depositphotos.com/1005563/3256/i/450/depositphotos_32564723-stock-photo-sports-balls-a-lot-of.jpg</fanart>
 </item>
 
-<channel>
-<item>
-<name>[COLOR=white][I][B]               TELEVISION[/I][/B][/COLOR]</name>
-<externallink>https://pastebin.com/raw/X2Bb3VyR</externallink>
-<thumbnail>https://d3uir0eo9qeeuq.cloudfront.net/blog/wp-content/uploads/2018/11/21103505/netflix-3733812_640-min-300x198.jpg</thumbnail>
-<fanart>https://d3uir0eo9qeeuq.cloudfront.net/blog/wp-content/uploads/2018/11/21103505/netflix-3733812_640-min-300x198.jpg</fanart>
-</item>
+
 </channels>
