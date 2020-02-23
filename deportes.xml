@@ -69,16 +69,20 @@
 <sportsdevil>https://freeservice.info/tg.php?id=live9w</sportsdevil>
 <User-Agent></User-Agent>
 <referer></referer>
-<thumbnail>d</thumbnail>
+<thumbnail>https://assets.laliga.com/assets/static/logospage/laliga-v-16-9.jpg</thumbnail>
 <fanart>https://i.ibb.co/dbDR99f/Futbol.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR=white]Sportzonline HD6[COLOR=red] Osasuna x Granada [COLOR=yellow]Valladolid x Espanyol [COLOR=green]Getafe x Sevilla[/COLOR]</title>
+<title>[COLOR=white]Sportzonline HD6[/COLOR]</title>
 <sportsdevil>https://sportzonline.co/channels/hd/hd6.php</sportsdevil>
 <User-Agent></User-Agent>
 <referer></referer>
-<thumbnail>d</thumbnail>
+<info>   11:00	Osasuna x Granada </info>
+<info>   15:00	Real Valladolid x Espanyol </info>
+<info>   17:30	Getafe x Sevilla </info>
+<info>   20:00	Atletico Madrid x Villarreal </info>
+<thumbnail>https://assets.laliga.com/assets/static/logospage/laliga-v-16-9.jpg</thumbnail>
 <fanart>https://i.ibb.co/dbDR99f/Futbol.jpg</fanart>
 </item>
 
@@ -87,6 +91,7 @@
 <sportsdevil>https://sportzonline.co/channels/hd/hd6.php</sportsdevil>
 <User-Agent></User-Agent>
 <referer></referer>
+<info>   13:00	Alaves x Athletic Club </info>
 <thumbnail>d</thumbnail>
 <fanart>https://i.ibb.co/dbDR99f/Futbol.jpg</fanart>
 </item>
