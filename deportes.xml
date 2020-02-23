@@ -12,12 +12,30 @@
 
 
 <item> 
-<title>[COLOR=yellow]     *****              FUTBOL              *****[/COLOR]</title>
+<title>[COLOR=yellow]                          FUTBOL              [/COLOR]</title>
 <link>d</link>
 <thumbnail>https://i.ibb.co/dbDR99f/Futbol.jpg</thumbnail>
 <fanart>https://i.ibb.co/dbDR99f/Futbol.jpg</fanart>
 </item>
 
+
+<item>
+<title>[COLOR=white]                        Valencia CF[/COLOR]</title>
+<sportsdevil>https://arenavision.live/p81/cloud/servers/p2p/premium/p9/live/arenavision-1</sportsdevil>
+<User-Agent></User-Agent>
+<referer></referer>
+<thumbnail>https://i.pinimg.com/originals/fa/18/69/fa1869e374038d502ed99ba647a3ec0a.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/CAMP_DE_MESTALLA_GRADA_DE_LA_MAR_2014.JPG/1200px-CAMP_DE_MESTALLA_GRADA_DE_LA_MAR_2014.JPG</fanart>
+</item>
+
+<item>
+<title>[COLOR=white]                        Valencia CF[/COLOR]</title>
+<sportsdevil>acestream://361dcc828d8e3e0cb2c8cd15eeeb5355a6d45a2c</sportsdevil>
+<User-Agent></User-Agent>
+<referer></referer>
+<thumbnail>https://i.pinimg.com/originals/fa/18/69/fa1869e374038d502ed99ba647a3ec0a.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/CAMP_DE_MESTALLA_GRADA_DE_LA_MAR_2014.JPG/1200px-CAMP_DE_MESTALLA_GRADA_DE_LA_MAR_2014.JPG</fanart>
+</item>
 
 <item>
 <title>[COLOR=white]DailySport[/COLOR]</title>
@@ -82,7 +100,7 @@
 <sportsdevil>https://sportzonline.co/channels/hd/hd6.php</sportsdevil>
 <User-Agent></User-Agent>
 <referer></referer>
-<info>   11:00 Osasuna x Granada            15:00	Real Valladolid x Espanyol           17:30	Getafe x Sevilla           20:00	Atletico Madrid x Villarreal </info>
+<info>[COLOR=red]   11:00_Osasuna x Granada            15:00_Real Valladolid x Espanyol           17:30_Getafe x Sevilla           20:00_Atletico Madrid x Villarreal [COLOR=red]</info>
 <thumbnail>https://assets.laliga.com/assets/static/logospage/laliga-v-16-9.jpg</thumbnail>
 <fanart>https://i.ibb.co/dbDR99f/Futbol.jpg</fanart>
 </item>
@@ -92,7 +110,7 @@
 <sportsdevil>https://sportzonline.co/channels/hd/hd6.php</sportsdevil>
 <User-Agent></User-Agent>
 <referer></referer>
-<info>[COLOR=red]13:00 Alaves x Athletic[/COLOR]</info>
+<info>[COLOR=red]13:00 Alaves x Athletic[COLOR=red]</info>
 <thumbnail>d</thumbnail>
 <fanart>https://i.ibb.co/dbDR99f/Futbol.jpg</fanart>
 </item>
