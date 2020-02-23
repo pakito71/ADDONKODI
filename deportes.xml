@@ -74,7 +74,7 @@
 </item>
 
 <item>
-<title>[COLOR=white]Sportzonline HD6[/COLOR]</title>
+<title>[COLOR=white]Sportzonline HD6[COLOR=red] Osasuna x Granada [COLOR=yellow]Valladolid x Espanyol [COLOR=green]Getafe x Sevilla[/COLOR]</title>
 <sportsdevil>https://sportzonline.co/channels/hd/hd6.php</sportsdevil>
 <User-Agent></User-Agent>
 <referer></referer>
@@ -82,7 +82,14 @@
 <fanart>https://i.ibb.co/dbDR99f/Futbol.jpg</fanart>
 </item>
 
-  
+<item>
+<title>[COLOR=white]Sportzonline HD5 [COLOR=red] Alaves x Athletic[/COLOR]</title>
+<sportsdevil>https://sportzonline.co/channels/hd/hd6.php</sportsdevil>
+<User-Agent></User-Agent>
+<referer></referer>
+<thumbnail>d</thumbnail>
+<fanart>https://i.ibb.co/dbDR99f/Futbol.jpg</fanart>
+</item>
 
 
 
