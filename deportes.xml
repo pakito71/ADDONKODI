@@ -100,18 +100,18 @@
 <sportsdevil>https://sportzonline.co/channels/hd/hd6.php</sportsdevil>
 <User-Agent></User-Agent>
 <referer></referer>
-<info>[COLOR=red]   11:00_Osasuna x Granada            15:00_Real Valladolid x Espanyol           17:30_Getafe x Sevilla           20:00_Atletico Madrid x Villarreal [COLOR=red]</info>
-<thumbnail>https://assets.laliga.com/assets/static/logospage/laliga-v-16-9.jpg</thumbnail>
+<info>   11:00_Osasuna x Granada            15:00_Real Valladolid x Espanyol           17:30_Getafe x Sevilla           20:00_Atletico Madrid x Villarreal </info>
+<thumbnail>https://i.ibb.co/dbDR99f/Futbol.jpg</thumbnail>
 <fanart>https://i.ibb.co/dbDR99f/Futbol.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR=white]Sportzonline HD5 [COLOR=red] Alaves x Athletic[/COLOR]</title>
+<title>[COLOR=white]Sportzonline HD5[/COLOR]</title>
 <sportsdevil>https://sportzonline.co/channels/hd/hd6.php</sportsdevil>
 <User-Agent></User-Agent>
 <referer></referer>
-<info>[COLOR=red]13:00 Alaves x Athletic[COLOR=red]</info>
-<thumbnail>d</thumbnail>
+<info>   13:00 Alaves x Athletic      </info>
+<thumbnail>https://i.ibb.co/dbDR99f/Futbol.jpg</thumbnail>
 <fanart>https://i.ibb.co/dbDR99f/Futbol.jpg</fanart>
 </item>
 
@@ -121,7 +121,7 @@
  
 
 <item>
-<title>[COLOR=yellow]     *****          BALONCESTO          *****[/COLOR]</title>
+<title>[COLOR=yellow]                     BALONCESTO          [/COLOR]</title>
 <link>d</link>
 <thumbnail>https://i.ibb.co/Wc2nyh3/Basket.jpg</thumbnail>
 <fanart>https://i.ibb.co/Wc2nyh3/Basket.jpg</fanart>
@@ -129,7 +129,7 @@
 
 
 <item>
-<title>[COLOR=white]DailySport[/COLOR]</title>
+<title>[COLOR=white]*****[/COLOR]</title>
 <sportsdevil>https://dailysport.pw/c5.php</sportsdevil>
 <User-Agent></User-Agent>
 <referer></referer>
@@ -138,14 +138,14 @@
 </item>
 
 <item> 
-<title>[COLOR=yellow]     *****              MOTO GP              *****[/COLOR]</title>
+<title>[COLOR=yellow]                         MOTO GP              [/COLOR]</title>
 <link>d</link>
 <thumbnail>https://i.pinimg.com/originals/1a/da/44/1ada442c5d5e97a72c0ebdf0243fdeea.jpg</thumbnail>
 <fanart>https://e00-marca.uecdn.es/assets/multimedia/imagenes/2018/07/10/15312313057382.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR=white]DailySport[/COLOR]</title>
+<title>[COLOR=white]*****[/COLOR]</title>
 <sportsdevil>https://dailysport.pw/c5.php</sportsdevil>
 <User-Agent></User-Agent>
 <referer></referer>
