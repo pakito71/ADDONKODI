@@ -1,32 +1,36 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
-    <items_info> <!-- this is opitonal -->
-      <title> Eventos ESPENCAT </title> <!-- titulo -->
+    <items_info> 
+      <title> IPTV ESPENCAT </title> 
       <genre>deportes</genre>
-      <description>Eventos deportivos</description> <!-- aqui la descripcion -->
-      <thumbnail>https://www.pngkit.com/png/full/297-2976424_deportes-png-deporte.png</thumbnail>  <!-- aqui el logo -->
+      <description>Eventos deportivos</description>
+      <thumbnail>https://www.pngkit.com/png/full/297-2976424_deportes-png-deporte.png</thumbnail>
       <fanart>https://image.freepik.com/foto-gratis/textura-seda-fondo-resumen-diseno-papel-tapiz-suave-difuminado-suave_29487-1176.jpg</fanart> <!-- aqui el fondo -->
-      <date>20.02.2020</date>
-      <credits>espencat</credits>
+      <date>27.02.2020</date>
+      <credits>Espencat</credits>
     </items_info>
 <channels>
 
+<channel>
+<name>[COLOR=red][I]-------------------------------------------------------------------[/I][/COLOR]</name>
+<thumbnail>https://i.ibb.co/jfSg0vM/Darth-Vader.jpg</thumbnail>
+<fanart>https://i.pinimg.com/736x/99/d4/dd/99d4dd1a47033fe246fa34625fa18aab.jpg</fanart>
 
 <channel>
-<name>[COLOR=yellow][B]     Addon solo para [COLOR=white][I]Petorro  y [COLOR=red][I] Espencat[/I][/B][/COLOR]</name>
+<name>[COLOR=yellow][B]          Addon  [COLOR=white][I]solo para [COLOR=red][I] AMIGOS[/I][/B][/COLOR]</name>
 <thumbnail>https://i.ytimg.com/vi/HricO8lz1d4/maxresdefault.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/HricO8lz1d4/maxresdefault.jpg</fanart>	
+<fanart>https://i.pinimg.com/736x/99/d4/dd/99d4dd1a47033fe246fa34625fa18aab.jpg</fanart>	
 
 
 <channel>
-<name>[COLOR=RED][B]          PUTA SONY [COLOR=yellow][B]         QUE  [COLOR=white][I]ASCO[/I][/B][/COLOR]</name>
-<thumbnail>https://i.pinimg.com/736x/99/d4/dd/99d4dd1a47033fe246fa34625fa18aab.jpg</thumbnail>
-<fanart>https://wallpaperstock.net/wallpapers/thumbs1/35773hd.jpg</fanart>
+<name>[COLOR=RED][B]NO EMITIMOS NADA, [COLOR=yellow][B]ENLACES REOPILADOS [COLOR=white][I]DE INTERNET[/I][/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/jfSg0vM/Darth-Vader.jpg</thumbnail>
+<fanart>https://i.pinimg.com/736x/99/d4/dd/99d4dd1a47033fe246fa34625fa18aab.jpg</fanart>
 	
 <channel>
 <name>[COLOR=red][I]-------------------------------------------------------------------[/I][/COLOR]</name>
-<thumbnail>https://www.alfabetajuega.com/wp-content/uploads/2020/02/dragon-ball-vegeta-ataque.jpg</thumbnail>
-<fanart>https://wallpaperstock.net/wallpapers/thumbs1/35773hd.jpg</fanart>
+<thumbnail>https://i.ibb.co/jfSg0vM/Darth-Vader.jpg</thumbnail>
+<fanart>https://i.pinimg.com/736x/99/d4/dd/99d4dd1a47033fe246fa34625fa18aab.jpg</fanart>
 
 
 <channel>
@@ -34,7 +38,7 @@
 <name>[COLOR=yellow][B]  [COLOR=white]                         ACCESO   [/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/pakito71/ADDONKODI/master/menu.xml</externallink>
 <thumbnail>https://i.ibb.co/jfSg0vM/Darth-Vader.jpg</thumbnail>
-<fanart>https://wallpaperstock.net/wallpapers/thumbs1/35773hd.jpg</fanart>
+<fanart>https://i.pinimg.com/736x/99/d4/dd/99d4dd1a47033fe246fa34625fa18aab.jpg</fanart>
 </item>
 
 
