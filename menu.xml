@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
-    <items_info> <!-- this is opitonal -->
-      <title>ESPENCAT</title> <!-- titulo -->
+    <items_info>
+      <title>ESPENCAT</title>
       <genre>deportes</genre>
-      <description>SOLO PARA LOS AMIGOS</description> <!-- aqui la descriptionn -->
-      <thumbnail>https://i.ibb.co/jfSg0vM/Darth-Vader.jpg</thumbnail>  <!-- aqui el logo -->
-      <fanart>https://wallpaperstock.net/wallpapers/thumbs1/35773hd.jpg</fanart> <!-- aqui el fondo -->
+      <description>SOLO PARA LOS AMIGOS</description>
+      <thumbnail>https://i.ibb.co/jfSg0vM/Darth-Vader.jpg</thumbnail>
+      <fanart>https://wallpaperstock.net/wallpapers/thumbs1/35773hd.jpg</fanart>
       <date>20.02.2020</date>
       <credits>Espencat</credits>
     </items_info>
@@ -24,7 +24,7 @@
 <channel>  
 <item>
 <name>[COLOR=red][I][B]                      IPTV[COLOR=white] m3u[/I][/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/LIVETVapk/Movistar_815/master/Movistar_815.m3u</externallink>
+<externallink>https://raw.githubusercontent.com/LIVETVapk/Movistar_dharmaWise/master/Movistar_dharmaWISE.m3u</externallink>
 <thumbnail>https://notimundo.com.ec/wp-content/www/uploads/2019/06/Deportes.jpg</thumbnail>
 <fanart>https://st.depositphotos.com/1005563/3256/i/450/depositphotos_32564723-stock-photo-sports-balls-a-lot-of.jpg</fanart>
 </item>
