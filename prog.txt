@@ -29,13 +29,14 @@ HD8 ENGLISH
 BR1 BRAZILIAN
 BR2 BRAZILIAN
 
-00:00	SportzOnline 1 | https://sportzonline.co/channels/hd/hd1.php
-00:00	SportzOnline 2 | https://sportzonline.co/channels/hd/hd2.php
-00:00	SportzOnline 3 | https://sportzonline.co/channels/hd/hd3.php
-00:00	SportzOnline 4 | https://sportzonline.co/channels/hd/hd4.php
-00:00	SportzOnline 6 | https://sportzonline.co/channels/hd/hd6.php
-00:00	SportzOnline 7 | https://sportzonline.co/channels/hd/hd7.php
-00:00	SportzOnline 8 | https://sportzonline.co/channels/hd/hd8.php
+00:01	SportzOnline 1 | https://sportzonline.co/channels/hd/hd1.php
+00:02	SportzOnline 2 | https://sportzonline.co/channels/hd/hd2.php
+00:30	SportzOnline 3 | https://sportzonline.co/channels/hd/hd3.php
+00:03	SportzOnline 4 | https://sportzonline.co/channels/hd/hd4.php
+00:45	SportzOnline 5 | https://sportzonline.co/channels/hd/hd5.php
+00:50	SportzOnline 6 | https://sportzonline.co/channels/hd/hd6.php
+00:55	SportzOnline 7 | https://sportzonline.co/channels/hd/hd7.php
+00:59	SportzOnline 8 | https://sportzonline.co/channels/hd/hd8.php
 00:00	SportTV 1 | https://sportzonline.co/channels/pt/sporttv1.php
 00:00	SportTV 2 | https://sportzonline.co/channels/pt/sporttv2.php
 00:00   SportTV 3 | https://sportzonline.co/channels/pt/sporttv3.php
