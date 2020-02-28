@@ -31,7 +31,7 @@
 
 <item>
 <title>[COLOR=white]DailySport[/COLOR]</title>
-<sportsdevil>https://daiulsds.b-cdn.net/c1.php</sportsdevil>
+<sportsdevil>https://dailysport.pw/c1.php</sportsdevil>
 <User-Agent></User-Agent>
 <referer></referer>
 <thumbnail>https://www.mundodeportivo.com/r/GODO/MD/p6/ContraPortada/Imagenes/2019/07/23/img_rguillamet_20190723-110833_imagenes_md_otras_fuentes_previa-partits.jpg</thumbnail>
@@ -39,8 +39,8 @@
 </item>
 
 <item>
-<title>[COLOR=white]DailySport[/COLOR]</title>
-<sportsdevil>https://dailysport.pw/c1.php</sportsdevil>
+<title>[COLOR=white]DailySport m3u8[/COLOR]</title>
+<sportsdevil>https://g.dailysport.pw/x1/x1.m3u8</sportsdevil>
 <User-Agent></User-Agent>
 <referer></referer>
 <thumbnail>https://www.mundodeportivo.com/r/GODO/MD/p6/ContraPortada/Imagenes/2019/07/23/img_rguillamet_20190723-110833_imagenes_md_otras_fuentes_previa-partits.jpg</thumbnail>
@@ -96,10 +96,10 @@
 
 <item>
 <title>[COLOR=white]Sportzonline HD6[/COLOR]</title>
-<sportsdevil>https://ul.cdn946.net:8443/hls/55ught5e.m3u8?s=UzbjaPrCv3nm7KLCHCRYUA&e=1582769813</sportsdevil>
+<sportsdevil>https://ul.cdn946.net:8443/hls/55ught5e.m3u8?s=HsZD9tU5M8PD1Kuy6FCHNg&e=1582940152</sportsdevil>
 <User-Agent></User-Agent>
 <referer></referer>
-<info>   20:00	Real Madrid x Manchester City      </info>
+<info>   20:00 Real Sociedad x Real Valladolid      </info>
 <thumbnail>https://i.ibb.co/dbDR99f/Futbol.jpg</thumbnail>
 <fanart>https://i.ibb.co/dbDR99f/Futbol.jpg</fanart>
 </item>
