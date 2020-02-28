@@ -29,6 +29,7 @@ HD8 ENGLISH
 BR1 BRAZILIAN
 BR2 BRAZILIAN
 
+00:01	DailySport | https://dailysport.pw/c1.php
 00:01	SportzOnline 1 | https://sportzonline.co/channels/hd/hd1.php
 00:02	SportzOnline 2 | https://sportzonline.co/channels/hd/hd2.php
 00:30	SportzOnline 3 | https://sportzonline.co/channels/hd/hd3.php
