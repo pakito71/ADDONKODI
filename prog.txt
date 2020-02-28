@@ -1,6 +1,6 @@
 ============================================================
 
-               | LAST UPDATE: 27-02-20 |
+               | LAST UPDATE: 28-02-20 |
 		   		   
 INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
 INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
@@ -16,7 +16,7 @@ ANY INFO CONTACT: 4723346971@protonmail.com
 
 ============================================================
 
-THURSDAY
+FRIDAY
 HD1 ENGLISH
 HD2 ENGLISH
 HD3 GERMAN
@@ -29,44 +29,21 @@ HD8 ENGLISH
 BR1 BRAZILIAN
 BR2 BRAZILIAN
 
-06:30   European Tour: Oman Open - 1st Day | https://sportzonline.co/channels/pt/sporttv4.php
-08:30	Adelaide United x Newcastle Jets | https://sportzonline.co/channels/hd/hd2.php
-11:00   ATP 500: Dubai | https://sportzonline.co/channels/pt/sporttv3.php
-17:55	Istanbul Basaksehir x Sporting CP | https://sportzonline.co/channels/pt/sporttv2.php
-17:55	Espanyol x Wolverhampton Wanderers | https://sportzonline.co/channels/hd/hd8.php
-17:55	Espanyol x Wolverhampton Wanderers | https://sportzonline.co/channels/hd/hd6.php
-17:55	Espanyol x Wolverhampton Wanderers | https://sportzonline.co/channels/pt/sporttv3.php
-17:55	Gent x Roma | https://sportzonline.co/channels/hd/hd7.php
-17:55	Gent x Roma | https://sportzonline.co/channels/pt/sporttv4.php
-17:55	Porto x Bayer Leverkusen | https://sportzonline.co/channels/pt/sporttv1.php
-17:55	Basel x APOEL | https://sportzonline.co/channels/pt/sporttv5.php
-20:00	Manchester United x Club Brugge | https://sportzonline.co/channels/hd/hd2.php
-20:00	Manchester United x Club Brugge | https://sportzonline.co/channels/pt/sporttv3.php
-20:00	Arsenal x Olympiakos Piraeus | https://sportzonline.co/channels/hd/hd1.php
-20:00	Arsenal x Olympiakos Piraeus | https://sportzonline.co/channels/pt/sporttv2.php
-20:00	Internazionale x Ludogorets | https://sportzonline.co/channels/hd/hd7.php
-20:00	Internazionale x Ludogorets | https://sportzonline.co/channels/pt/sporttv4.php
-20:00	Salzburg x Eintracht Frankfurt | https://sportzonline.co/channels/hd/hd3.php
-20:00	Salzburg x Eintracht Frankfurt | https://sportzonline.co/channels/pt/sporttv5.php
-20:00	Ajax x Getafe | https://sportzonline.co/channels/hd/hd6.php
-20:00	Benfica x Shakhtar Donetsk | https://sportzonline.co/channels/pt/sporttv1.php
-20:00	Celtic x KÃ¸benhavn | https://sportzonline.co/channels/hd/hd4.php
-22:15	Guarani x Palestino | https://sportzonline.co/channels/hd/hd5.php
-22:15	Guarani x Palestino | https://sportzonline.co/channels/pt/sporttv5.php
-22:15   Sao Jose/RS x Chapecoense | https://sportzonline.co/channels/bra/br2.php
-23:00   ATP 500: Acapulco | https://sportzonline.co/channels/pt/sporttv4.php 
-00:30	Fortaleza x Independiente | https://sportzonline.co/channels/hd/hd5.php
-00:30   Fortaleza x Independiente | https://sportzonline.co/channels/bra/br1.php
-00:30	Fortaleza x Independiente | https://sportzonline.co/channels/pt/sporttv2.php
-00:30   Ponte Preta x Vila Nova/GO | https://sportzonline.co/channels/bra/br2.php
-01:00   NBA: Sacramento Kings @ Oklahoma City Thunder | https://sportzonline.co/channels/pt/sporttv3.php
-01:00   NHL: St. Louis @ NY Islanders | https://sportzonline.co/channels/pt/sporttv5.php
-01:00   NBA: Portland Trail Blazers @ Indiana Pacers | https://sportzonline.co/channels/hd/hd1.php
-03:00	Los Angeles FC x Leon | https://sportzonline.co/channels/hd/hd8.php
-03:30   NBA: LA Lakers @ Golden State Warriors | https://sportzonline.co/channels/hd/hd1.php
-03:30   NBA: LA Lakers @ Golden State Warriors | https://sportzonline.co/channels/pt/sporttv1.php
+00:00	SportzOnline 1 | https://sportzonline.co/channels/hd/hd1.php
+00:00	SportzOnline 2 | https://sportzonline.co/channels/hd/hd2.php
+00:00	SportzOnline 3 | https://sportzonline.co/channels/hd/hd3.php
+00:00	SportzOnline 4 | https://sportzonline.co/channels/hd/hd4.php
+00:00	SportzOnline 6 | https://sportzonline.co/channels/hd/hd6.php
+00:00	SportzOnline 7 | https://sportzonline.co/channels/hd/hd7.php
+00:00	SportzOnline 8 | https://sportzonline.co/channels/hd/hd8.php
+00:00	SportTV 1 | https://sportzonline.co/channels/pt/sporttv1.php
+00:00	SportTV 2 | https://sportzonline.co/channels/pt/sporttv2.php
+00:00   SportTV 3 | https://sportzonline.co/channels/pt/sporttv3.php
+00:00   SportTV 4 | https://sportzonline.co/channels/pt/sporttv4.php
+00:00	SportTV 5 | https://sportzonline.co/channels/pt/sporttv5.php
 
-FRIDAY
+
+SATURDAY
 HD1 ENGLISH
 HD2 ENGLISH
 HD3 GERMAN
