@@ -24,7 +24,7 @@ BR2 BRAZILIAN
 
 12:00	Eibar x Levante | https://sportzonline.co/channels/hd/hd6.php
 15:00	Valencia x Real Betis | https://sportzonline.co/channels/hd/hd6.php
-17:30	LeganÃ©s x Deportivo Alaves | https://sportzonline.co/channels/hd/hd6.php
+17:30	Leganés x Deportivo Alaves | https://sportzonline.co/channels/hd/hd6.php
 20:00	Granada x Celta de Vigo | https://sportzonline.co/channels/hd/hd6.php
 
 
