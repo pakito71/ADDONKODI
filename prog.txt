@@ -24,7 +24,7 @@ BR2 BRAZILIAN
 
 12:00	Eibar x Levante | https://sportzonline.co/channels/hd/hd6.php
 15:00	Valencia x Real Betis | https://sportzonline.co/channels/hd/hd6.php
-17:30	Leganés x Deportivo Alaves | https://sportzonline.co/channels/hd/hd6.php
+17:30	Leganes x Deportivo Alaves | https://sportzonline.co/channels/hd/hd6.php
 20:00	Granada x Celta de Vigo | https://sportzonline.co/channels/hd/hd6.php
 
 
@@ -40,7 +40,7 @@ HD8 ENGLISH
 
 11:00	Sevilla x Osasuna | https://sportzonline.co/channels/hd/hd6.php
 13:00	Athletic Club x Villarreal | https://sportzonline.co/channels/hd/hd5.php
-15:00	Espanyol x AtlÃ©tico Madrid | https://sportzonline.co/channels/hd/hd5.php
+15:00	Espanyol x Atletico Madrid | https://sportzonline.co/channels/hd/hd5.php
 15:00	Espanyol x Atletico Madrid | https://sportzonline.co/channels/hd/hd6.php
 17:30	Mallorca x Getafe | https://sportzonline.co/channels/hd/hd6.php
 20:00	Real Madrid x Barcelona | https://sportzonline.co/channels/hd/hd5.php
