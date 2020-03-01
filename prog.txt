@@ -8,32 +8,12 @@ INFO: INTENTEMOS ALGO NUEVO!
 
 ============================================================
 
-SATURDAY
-HD1 ENGLISH
-HD2 ENGLISH
-HD3 GERMAN
-HD4 FRENCH
-HD5 ENGLISH
-HD6 SPANISH
-HD7 ITALIAN
-HD8 ENGLISH
-
-BR1 BRAZILIAN
-BR2 BRAZILIAN
-
-
-12:00	Eibar x Levante | https://sportzonline.co/channels/hd/hd6.php
-15:00	Valencia x Real Betis | https://sportzonline.co/channels/hd/hd6.php
-17:30	Leganes x Deportivo Alaves | https://sportzonline.co/channels/hd/hd6.php
-20:00	Granada x Celta de Vigo | https://sportzonline.co/channels/hd/hd6.php
-
-
 SUNDAY
 HD1 ENGLISH
 HD2 ENGLISH/DUTCH
 HD3 GERMAN
 HD4 FRENCH
-HD5 ENGLISH
+HD5 SPANISH
 HD6 SPANISH
 HD7 ITALIAN
 HD8 ENGLISH
