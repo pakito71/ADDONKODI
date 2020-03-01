@@ -30,8 +30,15 @@
 </item>
 
 <item>
-<title>[COLOR=white]DailySport[/COLOR]</title>
-<sportsdevil>https://dailysport.pw/c1.php</sportsdevil>
+<title>[COLOR=cyan][COLOR red]21:00 [COLOR white]REAL MADRID - FC BARCELONA[/COLOR][B]  ESP [/B][/COLOR]</title>
+<link>http://209.126.106.235:25461/live/mundoTVcruel/123456/3399.ts?token=SRFdBRUOGg1GUlBWClFcCQBQU1YGAAsJVQIFCAZSW1MKB1NWAABeBFNESRVKEhdcVwxtWlATAgsACg0dF0NLBEBsXABEXBoDXF9HGxsSDFRTQwgCAQkLCAsDDAEFGhoRW1cXXkRXDQRVV0cbGwMdTVMTXFJYblxdRVpXVBcMVhReXxlGCQhnUwELBFldRF8bB0MeEV1CSBoJXUFdWRoaA1tHRwUSAxoNRlRUBwlESRtVDkddQENBGgkReWkXGhoESkdQChUPV1lGXEdDSkRJG18SbUFRQkxKVlJZVEcUAkMCERlGCwdAaAcJC1lcBRFQWQ9BEQ4TCg0RHxZcWlhRFV1BahQPAhoNRldVBAlXR0Q=</link>
+<thumbnail>https://dl.dropbox.com/s/2pyfjg995wpbxwz/camisetas.jpg?dl=0</thumbnail>
+<fanart>https://dl.dropbox.com/s/idno2o2rofbnl8s/fondo%20madridbar%C3%A7a.jpg?dl=0</fanart>
+</item>
+
+<item>
+<title>[COLOR=cyan][COLOR red]21:00 [COLOR white]REAL MADRID - FC BARCELONA[/COLOR][B]  ESP [/B][/COLOR]</title>
+<sportsdevil>http://push20.feber.xyz/hls/channel21hd47/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMjAgMTE6MDE6NDcgQU0maGFzaF92YWx1ZT12RGo0eDhWSDAxQVUya1B5VExCeDFBPT0mdmFsaWRtaW51dGVzPTcw</sportsdevil>
 <User-Agent></User-Agent>
 <referer></referer>
 <thumbnail>https://www.mundodeportivo.com/r/GODO/MD/p6/ContraPortada/Imagenes/2019/07/23/img_rguillamet_20190723-110833_imagenes_md_otras_fuentes_previa-partits.jpg</thumbnail>
@@ -39,8 +46,8 @@
 </item>
 
 <item>
-<title>[COLOR=white]DailySport m3u8[/COLOR]</title>
-<sportsdevil>https://g.dailysport.pw/x1/x1.m3u8</sportsdevil>
+<title>[COLOR=cyan][COLOR red]21:00 [COLOR white]REAL MADRID - FC BARCELONA[/COLOR][B]  ESP [/B][/COLOR]</title>
+<sportsdevil>http://elixx.me/apsg.html</sportsdevil>
 <User-Agent></User-Agent>
 <referer></referer>
 <thumbnail>https://www.mundodeportivo.com/r/GODO/MD/p6/ContraPortada/Imagenes/2019/07/23/img_rguillamet_20190723-110833_imagenes_md_otras_fuentes_previa-partits.jpg</thumbnail>
@@ -48,26 +55,19 @@
 </item>
 
 <item>
-<title>[COLOR=white]Push[/COLOR]</title>
-<sportsdevil>http://push6.feber.xyz/hls/channel21hd47/chunks.m3u8</sportsdevil>
+<title>[COLOR=cyan][COLOR red]21:00 [COLOR white]REAL MADRID - FC BARCELONA[/COLOR][B]  ESP [/B][/COLOR]</title>
+<sportsdevil>https://sportzonline.co/channels/hd/hd5.php</sportsdevil>
 <User-Agent></User-Agent>
 <referer></referer>
 <thumbnail>https://www.mundodeportivo.com/r/GODO/MD/p6/ContraPortada/Imagenes/2019/07/23/img_rguillamet_20190723-110833_imagenes_md_otras_fuentes_previa-partits.jpg</thumbnail>
 <fanart>https://i.ibb.co/dbDR99f/Futbol.jpg</fanart>
 </item>
 
-<item>
-<title>[COLOR=white]DailySport m3u8[/COLOR]</title>
-<sportsdevil>https://g.dailysport.pw/bb1/x1.m3u8</sportsdevil>
-<User-Agent></User-Agent>
-<referer></referer>
-<thumbnail>https://www.mundodeportivo.com/r/GODO/MD/p6/ContraPortada/Imagenes/2019/07/23/img_rguillamet_20190723-110833_imagenes_md_otras_fuentes_previa-partits.jpg</thumbnail>
-<fanart>https://i.ibb.co/dbDR99f/Futbol.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLOR=white]FreeService 8W[/COLOR]</title>
-<sportsdevil>https://ul.cdn946.net:8443/hls/p7mq6nc7v6i.m3u8?s=JknIK1aO6RnKCoMFgj4ZEA&e=1582482610</sportsdevil>
+<sportsdevil>https://ul.cdn946.net:8443/hls/p7mq6nc7v6i.m3u8?s=xW48LXapwh70FbGzkqxOAQ&e=1583114589</sportsdevil>
 <User-Agent></User-Agent>
 <referer></referer>
 <thumbnail>https://i.ibb.co/dbDR99f/Futbol.jpg</thumbnail>
@@ -76,7 +76,7 @@
 
 <item>
 <title>[COLOR=white]FreeService 9W[/COLOR]</title>
-<sportsdevil>https://ul.cdn946.net:8443/hls/9nncq7gl6aiw1v.m3u8?s=cLkWYitejobkCRZXP8dRGw&e=1582482384</sportsdevil>
+<sportsdevil>https://ul.cdn946.net:8443/hls/9nncq7gl6aiw1v.m3u8?s=FqwzGfWjVcJtbvnXNJyfZw&e=1583114640</sportsdevil>
 <User-Agent></User-Agent>
 <referer></referer>
 <info></info>
@@ -96,7 +96,7 @@
 
 <item>
 <title>[COLOR=white]Sportzonline HD6[/COLOR]</title>
-<sportsdevil>https://ul.cdn946.net:8443/hls/55ught5e.m3u8?s=HsZD9tU5M8PD1Kuy6FCHNg&e=1582940152</sportsdevil>
+<sportsdevil>https://ul.cdn946.net:8443/hls/55ught5e.m3u8?s=_Q7Gw6E2A1g1HlZ1XmVpWg&e=1583114786</sportsdevil>
 <User-Agent></User-Agent>
 <referer></referer>
 <info>   --------------------- </info>
