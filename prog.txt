@@ -13,13 +13,14 @@ HD1 ENGLISH
 HD2 ENGLISH/DUTCH
 HD3 GERMAN
 HD4 FRENCH
-HD5 SPANISH
+HD5 ENGLISH
 HD6 SPANISH
 HD7 ITALIAN
 HD8 ENGLISH
 
 11:00	Sevilla x Osasuna | https://sportzonline.co/channels/hd/hd6.php
 13:00	Athletic Club x Villarreal | https://sportzonline.co/channels/hd/hd5.php
+13:00	Athletic Club x Villarreal | https://sportzonline.co/channels/hd/hd6.php
 15:00	Espanyol x Atletico Madrid | https://sportzonline.co/channels/hd/hd5.php
 15:00	Espanyol x Atletico Madrid | https://sportzonline.co/channels/hd/hd6.php
 17:30	Mallorca x Getafe | https://sportzonline.co/channels/hd/hd6.php
