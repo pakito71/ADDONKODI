@@ -1,6 +1,6 @@
 ============================================================
 
-               | LAST UPDATE: 02-03-20 |
+               | LAST UPDATE: 04-03-20 |
 		   		   
 INFO: INTENTEMOS ALGO NUEVO!
 
@@ -8,27 +8,43 @@ INFO: INTENTEMOS ALGO NUEVO!
 
 ============================================================
 
-TUESDAY
+THURSDAY
+HD6 SPANSIH
+
+20:00	Granada x Athletic Club | https://sportzonline.co/channels/hd/hd6.php
+
+FRIDAY
+HD2 ENGLISH
+HD5 ENGLISH
+HD6 SPANISH
+HD8 ENGLISH
+
+10:15   MotoGP Qatar: FP1 | https://sportzonline.co/channels/hd/hd2.php
+10:15   MotoGP Qatar: FP1 | https://sportzonline.co/channels/pt/sporttv5.php
+12:30   Hockey: Australia v Argentina | https://sportzonline.co/channels/hd/hd8.php
+14:00   MotoGP Qatar: FP2 | https://sportzonline.co/channels/hd/hd2.php
+14:00   MotoGP Qatar: FP2 | https://sportzonline.co/channels/pt/sporttv5.php
+20:00	Deportivo Alaves x Valencia | https://sportzonline.co/channels/hd/hd5.php
+20:00	Deportivo Alaves x Valencia | https://sportzonline.co/channels/hd/hd6.php
+
+SATURDAY
 HD1 ENGLISH
 HD2 ENGLISH
 HD3 GERMAN
-HD4 ARABIC
+HD4 FRENCH
 HD5 ENGLISH
-HD6 POLISH
+HD6 SPANISH
 HD7 ITALIAN
-HD8 TURKISH
+HD8 SPANISH/ENGLISH
 
-BR1 BRAZILIAN
-BR2 BRAZILIAN
-
-00:30   NHL: Tampa Bay @ Boston | https://sportzonline.co/channels/pt/sporttv4.php
-00:30   NBA: Brooklyn Nets @ Boston Celtics | https://sportzonline.co/channels/hd/hd2.php
-01:00   NBA: LA Clippers @ Oklahoma City Thunder | https://sportzonline.co/channels/pt/sporttv5.php
-03:00   NBA: Philadelphia 76ers @ LA Lakers | https://sportzonline.co/channels/hd/hd2.php
-03:00   NBA: Philadelphia 76ers @ LA Lakers | https://sportzonline.co/channels/pt/sporttv1.php
+12:00	Eibar x Mallorca | https://sportzonline.co/channels/hd/hd6.php
+15:00	Atletico Madrid x Sevilla | https://sportzonline.co/channels/hd/hd6.php
+17:30	Barcelona x Real Sociedad | https://sportzonline.co/channels/hd/hd6.php
+20:00	Getafe x Celta de Vigo | https://sportzonline.co/channels/hd/hd6.php
 
 
-FRIDAY
+
+MONDAY
 00:01	DailySport | https://dailysport.pw/c1.php
 00:01	SportzOnline 1 | https://sportzonline.co/channels/hd/hd1.php
 00:02	SportzOnline 2 | https://sportzonline.co/channels/hd/hd2.php
