@@ -50,8 +50,9 @@
 
 <item>
 <title>[COLOR=cyan]─═☆☆═─   ٩(͡๏̯͡๏)۶  [COLOR red]20:45 [COLOR white]Valencia basket[/COLOR][B] [/B] [COLOR orange]PLEXUS[/COLOR]</title>
-<link>plugin://program.plexus/?url=acestream://681b03797379549af3e36301eea46b48de5b3cc9&amp;mode=1&amp;name=liveTV+Acestreams$$lsname=Valencia basket </link>
-<link>plugin://program.plexus/?url=acestream://05451c1a639bfe9496088b87826e922cd2539236&amp;mode=1&amp;name=liveTV+Acestreams$$lsname=Pruebas </link>
+<link>plugin://program.plexus/?url=acestream://8cb69525386533f81c042f9e02d254f01b71d00c&amp;mode=1&amp;name=liveTV+Acestreams$$lsname=VH1 EUROPE </link>
+<link>plugin://program.plexus/?url=acestream://9ac9ce574dd84e46bcd353f5ef31a31488aa20b2&amp;mode=1&amp;name=liveTV+Acestreams$$lsname=Pruebas </link>
+<link>plugin://program.plexus/?url=acestream://70675e7108e11b83e1257865529287348f2c3307&amp;mode=1&amp;name=liveTV+Acestreams$$lsname=Pruebas </link>
 <thumbnail>https://i.imgur.com/7BBC3ec.png</thumbnail>
 <fanart>https://i.pinimg.com/originals/8f/41/9b/8f419b52e2c1d2eba2f49c46b3a81385.jpg</fanart>
 </item>
