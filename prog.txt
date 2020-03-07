@@ -21,7 +21,6 @@ HD6 SPANISH
 14:00   MotoGP Qatar | https://sportzonline.co/channels/pt/sporttv5.php
 
 FRIDAY
-00:01	DailySport | https://dailysport.pw/c1.php
 00:01	SportzOnline 1 | https://sportzonline.co/channels/hd/hd1.php
 00:02	SportzOnline 2 | https://sportzonline.co/channels/hd/hd2.php
 00:03	SportzOnline 3 | https://sportzonline.co/channels/hd/hd3.php
