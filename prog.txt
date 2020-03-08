@@ -8,17 +8,16 @@ INFO: INTENTEMOS ALGO NUEVO!
 
 ============================================================
 
-SATURDAY
-HD6 SPANISH
-
-17:30	Barcelona x Real Sociedad | https://sportzonline.co/channels/hd/hd6.php
-20:00	Getafe x Celta de Vigo | https://sportzonline.co/channels/hd/hd6.php
-
 SUNDAY
 HD2 ENGLISH
 HD6 SPANISH
 11:00   MotoGP Qatar | https://sportzonline.co/channels/hd/hd2.php
-14:00   MotoGP Qatar | https://sportzonline.co/channels/pt/sporttv5.php
+11:30   MotoGP Qatar | https://sportzonline.co/channels/pt/sporttv5.php
+12:00	Osasuna x Espanyol | https://sportzonline.co/channels/hd/hd6.php
+13:00	CB Gran Canaria x Valencia BC | https://sportzonline.co/channels/hd/hd6.php
+16:00	Levante x Granada | https://sportzonline.co/channels/hd/hd6.php
+18:30	Villareal x Leganes | https://sportzonline.co/channels/hd/hd6.php
+21:00	Betis x Madrid | https://sportzonline.co/channels/hd/hd6.php
 
 FRIDAY
 00:01	SportzOnline 1 | https://sportzonline.co/channels/hd/hd1.php
