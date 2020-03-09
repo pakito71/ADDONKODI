@@ -8,17 +8,18 @@ INFO: INTENTEMOS ALGO NUEVO!
 
 ============================================================
 
-SUNDAY
-HD2 ENGLISH
+TUESDAY
 HD6 SPANISH
 
-11:00	Osasuna x Espanyol | https://sportzonline.co/channels/hd/hd6.php
-12:00	CB Gran Canaria x Valencia BC | https://sportzonline.co/channels/hd/hd6.php
-13:20   MotoGP - Qatar: Moto3 Race | https://sportzonline.co/channels/hd/hd2.php
-13:20   MotoGP - Qatar: Moto3 Race | https://sportzonline.co/channels/pt/sporttv5.php
-16:00	Levante x Granada | https://sportzonline.co/channels/hd/hd6.php
-17:30	Villareal x Leganes | https://sportzonline.co/channels/hd/hd6.php
-20:00	Betis x Madrid | https://sportzonline.co/channels/hd/hd6.php
+20:00	Valencia x Atalanta | https://sportzonline.co/channels/hd/hd6.php
+
+WEDNESDAY
+TUESDAY
+HD6 SPANISH
+HD8 ENGLISH/SPANISH
+
+19:30	Manchester City x Arsenal | https://sportzonline.co/channels/hd/hd8.php
+20:00	Liverpool x Atletico Madrid | https://sportzonline.co/channels/hd/hd6.php
 
 FRIDAY
 00:01	SportzOnline 1 | https://sportzonline.co/channels/hd/hd1.php
