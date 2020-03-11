@@ -1,17 +1,12 @@
 ============================================================
 
-               | LAST UPDATE: 09-03-20 |
+               | LAST UPDATE: 11-03-20 |
 		   		   
 INFO: INTENTEMOS ALGO NUEVO!
 
 24/7 CHANNELS https://sportzonline.co/247.txt
 
 ============================================================
-
-TUESDAY
-HD6 SPANISH
-
-20:00	Valencia x Atalanta | https://sportzonline.co/channels/hd/hd6.php
 
 WEDNESDAY
 HD6 SPANISH
@@ -20,11 +15,28 @@ HD8 ENGLISH/SPANISH
 19:30	Manchester City x Arsenal | https://sportzonline.co/channels/hd/hd8.php
 20:00	Liverpool x Atletico Madrid | https://sportzonline.co/channels/hd/hd6.php
 
+THURSDAY
+HD6 SPANISH
+HD8 SPANISH
+
+17:55	Sevilla x Roma | https://sportzonline.co/channels/hd/hd6.php
+17:55	Sevilla x Roma | https://sportzonline.co/channels/hd/hd8.php
+20:00	Internazionale x Getafe | https://sportzonline.co/channels/hd/hd8.php
+
 FRIDAY
+HD1 ENGLISH
+HD6 SPANISH
+
+
+20:00	Real Madrid x Eibar | https://sportzonline.co/channels/hd/hd6.php
+02:45   F1 Grand Prix: Mexico - Practice 3 | https://sportzonline.co/channels/hd/hd1.php
+05:00   F1 Grand Prix: Mexico - Qualifying | https://sportzonline.co/channels/hd/hd1.php
+
+MONDAY
 00:01	SportzOnline 1 | https://sportzonline.co/channels/hd/hd1.php
 00:02	SportzOnline 2 | https://sportzonline.co/channels/hd/hd2.php
 00:03	SportzOnline 3 | https://sportzonline.co/channels/hd/hd3.php
-00:04	0SportzOnline 4 | https://sportzonline.co/channels/hd/hd4.php
+00:04	SportzOnline 4 | https://sportzonline.co/channels/hd/hd4.php
 00:05	SportzOnline 5 | https://sportzonline.co/channels/hd/hd5.php
 00:06	SportzOnline 6 | https://sportzonline.co/channels/hd/hd6.php
 00:07	SportzOnline 7 | https://sportzonline.co/channels/hd/hd7.php
