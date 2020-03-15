@@ -1,6 +1,6 @@
 ============================================================
 
-               | LAST UPDATE: 11-03-20 |
+               | LAST UPDATE: 15-03-20 |
 		   		   
 INFO: INTENTEMOS ALGO NUEVO!
 
@@ -8,31 +8,29 @@ INFO: INTENTEMOS ALGO NUEVO!
 
 ============================================================
 
-WEDNESDAY
-HD6 SPANISH
-HD8 ENGLISH/SPANISH
+SUNDAY
+HD5 ENGLISH
+HD8 TURKISH/BRAZILIAN
 
-19:30	Manchester City x Arsenal | https://sportzonline.co/channels/hd/hd8.php
-20:00	Liverpool x Atletico Madrid | https://sportzonline.co/channels/hd/hd6.php
+BR1 BRAZILIAN
+BR2 BRAZILIAN
+BR3 BRAZILIAN
+BR4 BRAZILIAN
 
-THURSDAY
-HD6 SPANISH
-HD8 SPANISH
-
-17:55	Sevilla x Roma | https://sportzonline.co/channels/hd/hd6.php
-17:55	Sevilla x Roma | https://sportzonline.co/channels/hd/hd8.php
-20:00	Internazionale x Getafe | https://sportzonline.co/channels/hd/hd8.php
+16:00   Galatasaray x Besiktas | https://sportzonline.co/channels/hd/hd5.php
+16:00   Galatasaray x Besiktas | https://sportzonline.co/channels/hd/hd8.php
+16:00   Galatasaray x Besiktas | https://sportzonline.co/channels/pt/sporttv1.php
+16:30   Petro Luanda x Interclube | https://sportzonline.co/channels/pt/sporttv2.php
+17:00   WRC: Mexico - Power Stage | https://sportzonline.co/channels/pt/sporttv3.php
+18:00   NASCAR: Fanshield 500 - Phoenix Raceway | https://sportzonline.co/channels/pt/sporttv1.php
+19:00	Coritiba x Atletico PR | https://sportzonline.co/channels/hd/hd8.php
+19:00   Cruzeiro x Coimbra | https://sportzonline.co/channels/bra/br4.php
+19:00   Corinthians x Ituano | https://sportzonline.co/channels/bra/br3.php
+19:00   Botafogo x Bangu | https://sportzonline.co/channels/bra/br2.php
+21:00   Vasco x Fluminense | https://sportzonline.co/channels/bra/br1.php
+22:00   Sao Jose x Internacional | https://sportzonline.co/channels/bra/br2.php
 
 FRIDAY
-HD1 ENGLISH
-HD6 SPANISH
-
-
-20:00	Real Madrid x Eibar | https://sportzonline.co/channels/hd/hd6.php
-02:45   F1 Grand Prix: Mexico - Practice 3 | https://sportzonline.co/channels/hd/hd1.php
-05:00   F1 Grand Prix: Mexico - Qualifying | https://sportzonline.co/channels/hd/hd1.php
-
-MONDAY
 00:01	SportzOnline 1 | https://sportzonline.co/channels/hd/hd1.php
 00:02	SportzOnline 2 | https://sportzonline.co/channels/hd/hd2.php
 00:03	SportzOnline 3 | https://sportzonline.co/channels/hd/hd3.php
@@ -40,10 +38,10 @@ MONDAY
 00:05	SportzOnline 5 | https://sportzonline.co/channels/hd/hd5.php
 00:06	SportzOnline 6 | https://sportzonline.co/channels/hd/hd6.php
 00:07	SportzOnline 7 | https://sportzonline.co/channels/hd/hd7.php
-00:59	SportzOnline 8 | https://sportzonline.co/channels/hd/hd8.php
-00:08	SportTV 1 | https://sportzonline.co/channels/pt/sporttv1.php
-00:09	SportTV 2 | https://sportzonline.co/channels/pt/sporttv2.php
-00:10   SportTV 3 | https://sportzonline.co/channels/pt/sporttv3.php
-00:11   SportTV 4 | https://sportzonline.co/channels/pt/sporttv4.php
-00:12	SportTV 5 | https://sportzonline.co/channels/pt/sporttv5.php
+00:08	SportzOnline 8 | https://sportzonline.co/channels/hd/hd8.php
+00:09	SportTV 1 | https://sportzonline.co/channels/pt/sporttv1.php
+00:10	SportTV 2 | https://sportzonline.co/channels/pt/sporttv2.php
+00:11   SportTV 3 | https://sportzonline.co/channels/pt/sporttv3.php
+00:12   SportTV 4 | https://sportzonline.co/channels/pt/sporttv4.php
+00:13	SportTV 5 | https://sportzonline.co/channels/pt/sporttv5.php
 
