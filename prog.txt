@@ -23,6 +23,7 @@ BR4 BRAZILIAN
 16:30   Petro Luanda x Interclube | https://sportzonline.co/channels/pt/sporttv2.php
 17:00   WRC: Mexico - Power Stage | https://sportzonline.co/channels/pt/sporttv3.php
 18:00   NASCAR: Fanshield 500 - Phoenix Raceway | https://sportzonline.co/channels/pt/sporttv1.php
+18:30   NASCAR: Fanshield - Phoenix | http://v2.sportzonline.to/channels/pt/sporttv1.php
 19:00	Coritiba x Atletico PR | https://sportzonline.co/channels/hd/hd8.php
 19:00   Cruzeiro x Coimbra | https://sportzonline.co/channels/bra/br4.php
 19:00   Corinthians x Ituano | https://sportzonline.co/channels/bra/br3.php
