@@ -7,29 +7,18 @@ INFO: INTENTEMOS ALGO NUEVO!
 24/7 CHANNELS https://sportzonline.co/247.txt
 
 ============================================================
-MONDAY
-HD1 - BT SPORT 1
-HD2 - BT SPORT 2
-HD3 - BT SPORT 3
-HD4 - CANAL + SPORT FRANCE
-HD5 - BEIN SPORTS USA
-HD6 - MOVISTAR LA LIGA
-HD7 - SKY SPORTS SERIE ALWAYS
-HD8 - BEIN SPORTS TURKISH
-
-BR2 - SPORTV BRAZIL
 
 FRIDAY
-00:01	SportzOnline 1 | https://sportzonline.co/channels/hd/hd1.php
-00:02	SportzOnline 2 | https://sportzonline.co/channels/hd/hd2.php
-00:03	SportzOnline 3 | https://sportzonline.co/channels/hd/hd3.php
-00:04	SportzOnline 4 | https://sportzonline.co/channels/hd/hd4.php
-00:05	SportzOnline 5 | https://sportzonline.co/channels/hd/hd5.php
-00:06	SportzOnline 6 | https://sportzonline.co/channels/hd/hd6.php
-00:07	SportzOnline 7 | https://sportzonline.co/channels/hd/hd7.php
-00:08	SportzOnline 8 | https://sportzonline.co/channels/hd/hd8.php
+00:01	SportzOnline 1 BT SPORT 1| https://sportzonline.co/channels/hd/hd1.php
+00:02	SportzOnline 2 BT SPORT 2| https://sportzonline.co/channels/hd/hd2.php
+00:03	SportzOnline 3 BT SPORT 3| https://sportzonline.co/channels/hd/hd3.php
+00:04	SportzOnline 4 CANAL + SPORT FRANCE| https://sportzonline.co/channels/hd/hd4.php
+00:05	SportzOnline 5 BEIN SPORTS USA| https://sportzonline.co/channels/hd/hd5.php
+00:06	SportzOnline 6 MOVISTAR LA LIGA| https://sportzonline.co/channels/hd/hd6.php
+00:07	SportzOnline 7 SKY SPORTS SERIE ALWAYS| https://sportzonline.co/channels/hd/hd7.php
+00:08	SportzOnline 8 BEIN SPORTS TURKISH| https://sportzonline.co/channels/hd/hd8.php
 00:09	SportTV 1 | https://sportzonline.co/channels/pt/sporttv1.php
-00:10	SportTV 2 | https://sportzonline.co/channels/pt/sporttv2.php
+00:10	SportTV 2 SPORTV BRAZIL| https://sportzonline.co/channels/pt/sporttv2.php
 00:11   SportTV 3 | https://sportzonline.co/channels/pt/sporttv3.php
 00:12   SportTV 4 | https://sportzonline.co/channels/pt/sporttv4.php
 00:13	SportTV 5 | https://sportzonline.co/channels/pt/sporttv5.php
